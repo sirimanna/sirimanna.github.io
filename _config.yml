@@ -1,2 +1,4 @@
 name: Viraj Sirimanna
 markdown: kramdown
+
+theme: jekyll-theme-cayman
